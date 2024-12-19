@@ -1,5 +1,4 @@
 import React from 'react';
-import { useState } from 'react';
 import Count from './Count';
 import Button from '../Button';
 
